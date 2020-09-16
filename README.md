@@ -49,3 +49,6 @@
   
 15. Amazon.com Recommendations: Item-to-Item Collaborative Filtering  
 논문: https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf  
+
+16. 기계학습 기반의 뉴스 추천 서비스 구조와 그 효과에 대한 고찰: 카카오 루빅스를 중심으로  
+논문: http://t1.daumcdn.net/brunch/service/user/1oU7/file/Zleohu0J5xsgN25TnRKfKSH5OHo.pdf?download  
